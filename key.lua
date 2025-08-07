@@ -1,7 +1,6 @@
 -- YoxanXHub | Custom Key System UI
 local KEY = "YOXANXHUB_Ep9vXa3NtLjQwZ"
-local LOAD_URL = "https://raw.githubusercontent.com/adityaywywi/Ha/main/imtrying.lua"
-
+local LOAD_URL = "https://raw.githubusercontent.com/ditzzdsgstd-dotcom/swcre/main/Free.lua"
 -- Destroy existing GUI (prevent duplicates)
 pcall(function()
     game.CoreGui:FindFirstChild("YoxanXKeyUI"):Destroy()
